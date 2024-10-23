@@ -1,2 +1,2 @@
 # firstLearnRepo
-This is My First Git
+Author: Satendra Jaiswal
